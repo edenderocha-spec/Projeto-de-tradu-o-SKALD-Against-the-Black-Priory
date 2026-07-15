@@ -6,7 +6,7 @@ Me chamo Eden, e quero ser um desenvolvedor!
 Bom... Aqui vou explicar como vocês vão aplicar o mod de tradução, mas lembrando ele está incompleto e me falta criar os
 caracteres especiais do jogo, e provavelmente vou precisar usar engenharia reversa e isso vai ser um trampo...
 
-Sim estou fazendo por enquanto sozinho, mas espero que no futuro eu consiga amigos que possam me ajuda, são mais de 13 mil
+Sim estou fazendo por enquanto sozinho, mas espero que no futuro eu consiga amigos que possam me ajudar, são mais de 13 mil
 linhas pra traduzir e preciso enquadrar o offset para os caracteres especiais, então para quem ler isso tenha paciência!
 
 Sem enrolação vamos lá:
