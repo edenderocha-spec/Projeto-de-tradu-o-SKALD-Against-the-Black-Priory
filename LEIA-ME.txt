@@ -22,6 +22,7 @@ Ele contem os arquivos Newtonsoft.Json.dll, TranslationMod.cfg e TranslationMod.
 de linguas, e na pasta "LanguagePacks" está o arquivo de tradução pt-br.
 
 Tradução ver. 1.0
+--> Itens, menus, inventário, talentos, magia e tutorial totalmente traduzidos, o começo da aventura principal também.
 - Ele ainda não possui as acentuações pois, como falei, estou tendo problemas em fazer os caracteres especiais para TODOS os tipos 
 de fontes, a grid de algumas letras é muito pequeno para comportar as acentuações e terei que fazer um pouco de engenharia recersa 
 para editar o offset de algumas letras do jogo devido o português, mas aos poucos irei atualizando.
