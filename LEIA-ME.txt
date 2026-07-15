@@ -17,7 +17,11 @@ Pra aplicar a tradução vocês vão precisar
 - Execute o jogo uma vez para gerar os arquivos de configuração do BepInEx.
 - O jogo será fechado após a configuração inicial - isso é normal.
 
-Depois disso, na pasta BepInEx substituam a pasta "plugin" do jogo pelo arquivo com o mesmo nome que deixei disponivel para vocês. Ele contem os arquivos Newtonsoft.Json.dll, TranslationMod.cfg e TranslationMod.dll para que o jogo possa reconhecer o novo pacote de linguas, e na pasta "LanguagePacks" está o arquivo de tradução pt-br.
+Depois disso, na pasta BepInEx substituam a pasta "plugin" do jogo pelo arquivo com o mesmo nome que deixei disponivel para vocês. 
+Ele contem os arquivos Newtonsoft.Json.dll, TranslationMod.cfg e TranslationMod.dll para que o jogo possa reconhecer o novo pacote 
+de linguas, e na pasta "LanguagePacks" está o arquivo de tradução pt-br.
 
 Tradução ver. 1.0
-- Ele ainda não possui as acentuações pois, como falei, estou tendo problemas em fazer os caracteres especiais para TODOS os tipos de fontes, a grid de algumas letras é muito pequeno para comportar as acentuações e terei que fazer um pouco de engenharia recersa para editar o offset de algumas letras do jogo devido o português, mas aos poucos irei atualizando.
+- Ele ainda não possui as acentuações pois, como falei, estou tendo problemas em fazer os caracteres especiais para TODOS os tipos 
+de fontes, a grid de algumas letras é muito pequeno para comportar as acentuações e terei que fazer um pouco de engenharia recersa 
+para editar o offset de algumas letras do jogo devido o português, mas aos poucos irei atualizando.
