@@ -1,0 +1,132 @@
+original,translate,
+#Colors,#Cores
+Black,Preto
+Blue,Azul
+Light Blue,Azul Claro
+Brown,Marrom
+Light Brown,Marrom Claro
+Cyan,Ciano
+Gray,Cinza
+DarkGray,Cinza Escuro
+Light Gray,Cinza Claro
+Green,Verde
+Light Green,Verde Claro
+Red,Vermelho
+Light Red,Vermelho Claro
+Violet,Violeta
+White,Branco
+Yellow,Amarelo
+"The major, defining attributes for the character","Os atributos principais e definitivos do personagem"
+These influence most other attributes in the game,Eles influenciam a maioria dos outros atributos no jogo
+Cancel,Cancelar
+All progress will be lost,Todo o progresso será perdido
+Disable,Desativar
+Loot,Saque
+Inv,Inv
+Container,Contêiner
+Get All,Pegar Tudo
+Transfer Stack,Transferir Pilha
+Transfer Item,Transferir Item
+Unequip,Desequipar
+Place development points in them (gained as you level up) to gain benefits and new Abilities,Coloque pontos de desenvolvimento neles (ganhos ao subir de nível) para obter benefícios e novas Habilidades
+Save and Exit,Salvar e Sair
+Male Human,Humano Macho
+Woman Human,Humana Fêmea
+Xp To Go,XP para Subir
+Active Conditions,Condições Ativas
+Move Character,Mover Personagem
+Overcast Night,Noite Nublada
+Can be removed by magic,Pode ser removido por magia
+Adds Status Tag,Adiciona Etiqueta de Status
+This list will only show entries with non-zero values,Esta lista só mostrará entradas com valores diferentes de zero
+The amount of experience to go until the character levels up,A quantidade de experiência restante até o personagem subir de nível
+The current level of this character,O nível atual deste personagem
+Cast a spell,Lançar um feitiço
+There are no weapons nearby to attack,Não há armas próximas para atacar
+You can't enter combat without enemies within combat range,Você não pode entrar em combate sem inimigos dentro do alcance de combate
+You wait a short while,Você espera um pouco
+Pass a turn,Passar um turno
+Recipes,Receitas
+Workstation,Bancada de Trabalho
+Craft,Fabricar
+Clear,Limpar
+You currently don't have any recepies to add to the crafting table,Você não tem nenhuma receita no momento para adicionar à mesa de fabricação
+Try experimenting with ingredients or look for recipes in the world,Tente experimentar com ingredientes ou procure por receitas no mundo
+An unknown recipe,Uma receita desconhecida
+POTION OF STRENGTH RECIPE,RECEITA DA POÇÃO DE FORÇA
+"To craft items, you must add ingredients to the crafting grid","Para fabricar itens, você deve adicionar ingredientes à grade de fabricação"
+Do this by double-clicking on ingredients from your inventory,Faça isso clicando duas vezes nos ingredientes do seu inventário
+Clicking a recipe to view ingredients required,Clique em uma receita para ver os ingredientes necessários
+Green recipes are available,Receitas verdes estão disponíveis
+No crafting ingredients added!,Nenhum ingrediente de fabricação adicionado!
+This is not a valid recipe!,Esta não é uma receita válida!
+DICE ROLL TEST,TESTE DE ROLAGEM DE DADOS
+Roll Dice,Rolar Dados
++ 2d6,+ 2d6
+must roll,precisa rolar
+or above on 2d6 to succeed on this,ou mais em 2d6 para ter sucesso nisso
+skill check!,teste de habilidade!
+Pick,Ganzuar
+Force,Forçar
+Pick or force the lock until its HP reaches zero,Arrombe ou force a fechadura até que seus PV cheguem a zero
+Party has,O grupo tem
+You cannot rest anywhere in this area,Você não pode descansar em lugar nenhum nesta área
+You must look for a suitable camp-site elsewhere,Você deve procurar por um acampamento adequado em outro lugar
+Use,Usar
+Adventuring,Aventurando-se
+SUCCESS,SUCESSO
+beats Difficulty,supera a Dificuldade
+You bring glory upon thine Ancestors!,Você traz glória aos seus Antepassados!
+{ITEM} Recipe,Receita de {ITEM}
+A recipe for crafting {ITEM},Uma receita para fabricar {ITEM}
+Ingredients,Ingredientes
+{PLAYER} has a Crafting skill of,{PLAYER} tem uma habilidade de Fabricação de
+versus Difficulty,contra Dificuldade
+to produce a larger amount,para produzir uma quantidade maior
+Journal,Diário
+Consumed 1 {ITEM},Consumiu 1 {ITEM}
+You add {ITEM} to your party,Você adiciona {ITEM} ao seu grupo
+Removes Conditions with Tag: #{ITEM},Remove Condições com a Etiqueta: #{ITEM}
+Consumed,Consumido
+The party does not have a lightsource to equip,O grupo não tem uma fonte de luz para equipar
+Find a lantern!,Encontre uma lanterna!
+Restores {ITEM} (+{ITEM},Restaura {ITEM} (+{ITEM}
+Heals {ITEM} (+{ITEM},Cura {ITEM} (+{ITEM}
+View Inventory,Ver Inventário
+View the Journal,Ver o Diário
+{ITEM} ended,{ITEM} terminou
+Added some items to inventory!,Alguns itens foram adicionados ao inventário!
+Updated Journal,Diário Atualizado
+Adds Conditions,Adiciona Condições
+Adds Condition,Adiciona Condição
+Faction is {ITEM},A facção é {ITEM}
+NEUTERAL,NEUTRO
+You created,Você criou
+Main quests that have not yet been completed,Missões principais que ainda não foram concluídas
+FAILURE,FRACASSO
+You have been found wanting,Você foi considerado incapaz
+does not beat Difficulty,não supera a Dificuldade
+SNEAKING,FURTIVIDADE
+Status,Status
+Safe,Seguro
+Tile Mod,Modificador de Bloco
+Unsafe,Inseguro
+Unlocked,Desbloqueado
+Loot the corpses of your enemies!,Saqueie os cadáveres dos seus inimigos!
+Read,Ler
+Raining Night,Noite Chuvosa
+You have died - The Dragon awakens,Você morreu - O Dragão desperta
+Reload a previous save or restart the game!,Carregue um salvamento anterior ou reinicie o jogo!
+Game too difficult?,O jogo está muito difícil?
+You can set the Difficulty in Settings -> Difficulty,Você pode ajustar a Dificuldade em Configurações -> Dificuldade
+Load Last Save,Carregar Último Salvamento
+Load Other Save,Carregar Outro Salvamento
+Restart Game,Reiniciar Jogo
+Game Over!,Fim de Jogo!
+{PLAYER} does not have Thieves Tools!,{PLAYER} não tem Ferramentas de Ladrão!
+The adventure begins!,A aventura começa!
+You see,Você vê
+You must destribute all your attribute points before you can proceed!,Você deve distribuir todos os seus pontos de atributo antes de prosseguir!
+Can't be far now?,Não deve estar longe agora?
+Name,Nome
+New Recipe,Nova Receita

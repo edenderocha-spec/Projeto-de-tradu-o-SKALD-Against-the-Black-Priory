@@ -1,0 +1,154 @@
+original,Traducido
+#Combat Tutorials,#Tutoriais de Combate
+Charging,Investida
+Moving at least 2 tiles in a straight line before performing an attack allows characters with a Melee weapon to perform a Charge Attack,Mover pelo menos 2 blocos em linha reta antes de realizar um ataque permite que personagens com uma arma Corpo a Corpo realizem um Ataque de Investida
+Charge attacks significantly increase your likelihood to hit,Ataques de investida aumentam significativamente a sua probabilidade de acerto
+Charge attacks add a bonus to your hit chance depending on how far you manage to move before attacking,Ataques de investida adicionam um bônus à sua chance de acerto dependendo de quão longe você consiga se mover antes de atacar
+The teal pips over the character indicate how much momentum is built up by the charge,Os pontos verde-azulados sobre o personagem indicam quanto impulso foi gerado pela investida
+"The more momentum, the bigger the charge bonus","Quanto mais impulso, maior será o bônus de investida"
+A successful charge will give the following text printing the bonus that was added to the character’s To-Hit roll,Uma investida bem-sucedida exibirá o seguinte texto mostrando o bônus que foi adicionado à rolagem Para Acertar do personagem
+Tactical View,Visão Tática
+Pressing SHIFT in combat brings up the tactical overlay and makes it easier to see the exact positioning of characters and the underlying grid,Pressionar SHIFT em combate ativa a sobreposição tática e torna mais fácil ver o posicionamento exato dos personagens e a grade subjacente
+"In the settings menu, you can toggle the tactical overlay to be always on during the player’s turn","No menu de configurações, você pode alternar a sobreposição tática para ficar sempre ativa durante o turno do jogador"
+Holding LEFT TRIGGER in combat brings up the tactical overlay and makes it easier to see the exact positioning of characters and the underlying grid,Segurar o GATILHO ESQUERDO em combate ativa a sobreposição tática e torna mais fácil ver o posicionamento exato dos personagens e a grade subjacente
+Conditions,Condições
+You have contracted a disease from your fight with the rats,Você contraiu uma doença na sua luta contra os ratos
+You may see what conditions are affecting you by opening the Character Sheet,Você pode ver quais condições estão afetando você abrindo a Ficha de Personagem
+Click your portraits or press ‘C’ to do so,Clique nos seus retratos ou pressione ‘C’ para fazer isso
+Not all conditions are negative!,Nem todas as condições são negativas!
+Press the Y BUTTON to do so,Pressione o BOTÃO Y para fazer isso
+Negative conditions can often be cured by magic or rest,Condições negativas geralmente podem ser curadas por magia ou descanso
+This disease can be cured by a potion,Esta doença pode ser curada por uma poção
+Pick up and equip the lantern to search the area!,Pegue e equipe a lanterna para vasculhar a área!
+Hint,Dica
+Some containers are hidden until your character “spots” them,Alguns contêineres ficam ocultos até que seu personagem os “detecte”
+Difficulty,Dificuldade
+Warda is a dangerous place where you can quickly end up facing very dangerous beings,Warda é um lugar perigoso onde você pode rapidamente acabar enfrentando seres muito perigosos
+Sometimes the best tactic is to leave a fight for later as you level up and gather more equipment and allies,Às vezes, a melhor tática é deixar uma luta para mais tarde, conforme você sobe de nível e reúne mais equipamentos e aliados
+Remember that you can change the difficulty of the game at any time,Lembre-se de que você pode alterar a dificuldade do jogo a qualquer momento
+You can even create your own custom difficulty!,Você pode até criar sua própria dificuldade personalizada!
+Play the game the way YOU want it!,Jogue o jogo do jeito que VOCÊ quiser!
+Flanking,Flanqueamento
+A character can be Flanked if opponents occupy the tile above and below it or to the left and right of it,Um personagem pode ser Flanqueado se os oponentes ocuparem o bloco acima e abaixo dele ou à esquerda e à direita dele
+It is much easier to hit a Flanked character,É muito mais fácil acertar um personagem Flanqueado
+A Rogue will automatically Backstab Flanked targets to deal massive amounts of damage,Um Ladino irá automaticamente Esfaquear pelas Costas alvos Flanqueados para causar grandes quantidades de dano
+Here the main character has moved to the right of the mercenary,Aqui o personagem principal se moveu para a direita do mercenário
+And then Roland moves to the left of the mercenary who is now Flanked,E então Roland se move para a esquerda do mercenário, que agora está Flanqueado
+Note the red double-arrow icon that indicates when a character is Flanked,Observe o ícone de seta dupla vermelha que indica quando um personagem está Flanqueado
+Initiative,Iniciativa
+"In combat, characters act in order of initiative","Em combate, os personagens agem em ordem de iniciativa"
+You can view the initiative order by using the Initiative Widget on the left side of the screen,Você pode visualizar a ordem de iniciativa usando o Widget de Iniciativa no lado esquerdo da tela
+Moving the cursor over the widget makes it pop out,Mover o cursor sobre o widget faz com que ele apareça
+Note that moving the cursor over a name will make that character's outline flash on the battlefield,Observe que mover o cursor sobre um nome fará com que o contorno daquele personagem pisque no campo de batalha
+Injuries,Lesões
+Your character is critically injured!,Seu personagem está gravemente ferido!
+This means you have taken enough damage to reduce BOTH your Vitality and Wounds,Isso significa que você sofreu dano suficiente para reduzir TANTO sua Vitalidade quanto seus Ferimentos
+The green bar under your Character’s portrait represents your Vitality score,A barra verde sob o retrato do seu Personagem representa seus pontos de Vitalidade
+Vitality is a buffer to your wounds and as long as you have Vitality left you won’t take (serious,A Vitalidade é um amortecedor para seus ferimentos e, enquanto tiver Vitalidade restante, você não sofrerá (graves)
+Wound damage,Dano de ferimento
+Vitality is easily lost and easily regained!,A Vitalidade é facilmente perdida e facilmente recuperada!
+Potions and healing magic restores Vitality - even during combat,Poções e magia de cura restauram a Vitalidade - mesmo durante o combate
+"The second, purple bar represents your Wounds",A segunda barra, roxa, representa seus Ferimentos
+Losing Wounds is much more serious than losing Vitality,Perder Ferimentos é muito mais sério do que perder Vitalidade
+Reaching 0 wounds means your character falls unconscious,Chegar a 0 ferimentos significa que seu personagem fica inconsciente
+Wounds can also only be recovered by resting (or leveling up,Ferimentos também só podem ser recuperados descansando (ou subindo de nível)
+Try to avoid taking Wound damage at all costs!,Tente evitar sofrer dano de Ferimento a todo custo!
+"Whenever you take Wound damage, you gain an Injury Condition as indicated by the icon on the portrait","Sempre que você sofre dano de Ferimento, você ganha uma Condição de Lesão, conforme indicado pelo ícone no retrato"
+Injuries confer serious penalties to your character and can only be removed by resting,Lesões concedem penalidades sérias ao seu personagem e só podem ser removidas descansando
+A party full of injured party members has its combat effectiveness severely reduced!,Um grupo cheio de membros lesionados tem sua eficácia de combate severamente reduzida!
+Making camp and resting is the surest way to restore an injured character!,Fazer um acampamento e descansar é a maneira mais garantida de restaurar um personagem lesionado!
+Note that resting is not possible in every location so plan accordingly,Observe que descansar não é possível em todos os locais, então planeje de acordo
+You can also rest at inns when you find them,Você também pode descansar em estalagens quando as encontrar
+Interactables,Interativos
+Moving the cursor over an interactable object will make a yellow outline appear,Mover o cursor sobre um objeto interativo fará com que um contorno amarelo apareça
+Left mouse-click to interact with the object,Clique com o botão esquerdo do mouse para interagir com o objeto
+Right mouse-click to examine it,Clique com o botão direito do mouse para examiná-lo
+Use RIGHT TRIGGER to interact with and object and press LEFT TRIGGER to examine it,Use o GATILHO DIREITO para interagir com um objeto e pressione o GATILHO ESQUERDO para examiná-lo
+Holding down SHIFT will highlight all interactable objects in view,Segurar SHIFT destacará todos os objetos interativos à vista
+Some objects are hidden and won't be highlighted until they are spotted,Alguns objetos ficam ocultos e não serão destacados até serem detectados
+Holding down LEFT TRIGGER will highlight all interactable objects in view,Segurar o GATILHO ESQUERDO destacará todos os objetos interativos à vista
+Inventory,Inventário
+"If you've not already done so, you must equip a weapon","Se ainda não o fez, você deve equipar uma arma"
+Press 'E' to manage your equipment,Pressione 'E' para gerenciar seu equipamento
+Clicking an item selects and examines it,Clicar em um item o seleciona e o examina
+Select items using the cursor to examine and use it,Selecione itens usando o cursor para examiná-los e usá-los
+Press the X BUTTON on the controller to manage your equipment,Pressione o BOTÃO X no controle para gerenciar seu equipamento
+Double click on items to use them,Clique duas vezes nos itens para usá-los
+For weapons and armor this means the item becomes equipped,Para armas e armaduras, isso significa que o item é equipado
+Equipped items are moved to the relevant equipment slot,Itens equipados são movidos para o compartimento de equipamento correspondente
+"Select an item and press the A BUTTON to ""use"" it","Selecione um item e pressione o BOTÃO A para ""usá-lo"""
+Note that you can also press RIGHT TRIGGER with the cursor over a selected item to use it,Observe que você também pode pressionar o GATILHO DIREITO com o cursor sobre um item selecionado para usá-lo
+Movement Points,Pontos de Movimento
+The widget on the lower right side represents the character’s action points,O widget no canto inferior direito representa os pontos de ação do personagem
+The yellow pips represent Movement points,Os pontos amarelos representam pontos de Movimento
+The violet pips represent Attacks,Os pontos violetas representam Ataques
+You can move a number of tiles each combat equal to your Movement Points AND Attacks,Você pode mover um número de blocos a cada combate igual aos seus Puntos de Movimento E Ataques
+But spending Attacks to move means you won't be able to attack that turn,Mas gastar Ataques para se mover significa que você não poderá atacar naquele turno
+This is a good way of moving extra far,Esta é uma boa maneira de ir mais longe
+Performing an attack will clear out all remaining movement points,Realizar um ataque eliminará todos os pontos de movimento restantes
+"In other words, attacking will end the character’s turn in most cases","Em outras palavras, atacar terminará o turno do personagem na maioria dos casos"
+New Character,Novo personagem
+You’ve added a new character to your party!,Você adicionou um novo personagem ao seu grupo!
+"Press ""Q"" or the character portraits to swap the party leader","Pressione ""Q"" ou os retratos dos personagens para alternar o líder do grupo"
+Press RIGHT BUMPER or the character portraits to swap the party leader,Pressione o BOTÃO SUPERIOR DIREITO ou os retratos dos personagens para alternar o líder do grupo
+The current leader’s Attributes are used for tests outside combat (such as for Awareness or Stealth,Os atributos do líder atual são usados para testes fora de combate (como Percepção ou Furtividade)
+Familiarize yourself with the Attributes and Abilities of your party members and have the right character take the lead depending on the circumstances,Familiarize-se com os Atributos e Habilidades dos membros do seu grupo e faça o personagem certo assumir a liderança dependendo das circunstâncias
+"When a new member joins your party, they Level Up to your current level","Quando um novo membro se junta ao seu grupo, ele Sobe de Nível para o seu nível atual"
+The “Level Up” icon on your party-member’s portrait shows that a character is ready to level up!,O ícone “Subir de Nível” no retrato do membro do seu grupo mostra que o personagem está pronto para subir de nível!
+Double-click the character portrait and select FEATS to begin leveling up,Clique duas vezes no retrato do personagem e selecione TALENTOS para começar a subir de nível
+Press the X BUTTON and go to the FEATS tab to begin leveling up,Pressione o BOTÃO X e vá para a aba TALENTOS para começar a subir de nível
+Stealth,Furtividade
+Press the Hide button to go into Stealth mode,Pressione o botão Esconder para entrar no modo Furtivo
+The action buttons also map to the numerical buttons,Os botões de ação também se mapeiam nos botões numéricos
+You may also press LEFT JOYSTICK to enter stealth mode,Você também pode pressionar o DIRECIONAL ANALÓGICO ESQUERDO para entrar no modo furtivo
+While in stealth mode the Stealth indicator becomes visible,Enquanto estiver no modo furtivo, o indicador de Furtividade fica visível
+A yellow indicator means you're in danger of being spotted,Um indicador amarelo significa que você corre o risco de ser detectado
+"While your indicator is yellow, it will count down to 0%","Enquanto o seu indicador estiver amarelo, ele fará uma contagem regressiva até 0%"
+When it reaches 0% you are spotted and will become visible,Quando atingir 0%, você será detectado e ficará visível
+Moving in lit areas and being close to other characters will make the counter go down very fast,Mover-se em áreas iluminadas e estar perto de outros personagens fará o contador diminuir muito rápido
+Stick to shadows and avoid other characters,Fique nas sombras e evite outros personagens
+Your ability to stay hidden is dictated by your stealth skill,Sua capacidade de permanecer escondido é ditada pela sua habilidade de furtividade
+Increase this skill to stay hidden for longer,Aumente esta habilidade para permanecer escondido por mais tempo
+Wearing armor makes it harder to stay hidden,Usar armadura torna mais difícil permanecer escondido
+"If the indicator turns green, it means you are no longer in danger of being spotted","Se o indicador ficar verde, significa que você não corre mais risco de ser detectado"
+"Spending time in ""green"" areas will refill your stealth meter","Passar um tempo em áreas ""verdes"" recarregará seu medidor de furtividade"
+#Misc,#Diversos
+Crafting,Fabricação
+This is the Crafting screen,Esta é a tela de Fabricação
+"To create new items, double-click ingredients in your inventory to place them in the “Workstation” and then press “Craft","Para criar novos itens, clique duas vezes nos ingredientes no seu inventário para colocá-los na “Bancada de Trabalho” e então pressione “Fabricar”"
+"If the recipe is valid, new items will be created",Se a receita for válida, novos itens serão criados
+"To create new items, place ingredients in the “Workstation” grid and then press “Craft","Para criar novos itens, coloque os ingredientes na grade da “Bancada de Trabalho” e então pressione “Fabricar”"
+The recipe list in the left column represents known recipes,A lista de receitas na coluna da esquerda representa as receitas conhecidas
+You learn new recipes by experimenting or by finding recipe books out in the world,Você aprende novas receitas experimentando ou encontrando livros de receitas pelo mundo
+Recipes that can currently be crafted are shown in green,As receitas que podem ser fabricadas no momento são exibidas em verde
+Selecting a green recipe will automatically add all the necessary ingredients to the “Workstation,Selecionar uma receita verde adicionará automaticamente todos os ingredientes necessários à “Bancada de Trabalho”
+Crafting is dependent on the Crafting skill,A fabricação depende da habilidade de Fabricação
+"Crafting a valid recipe will always succeed but depending on your skill and the recipe’s difficulty, there is a chance you may produce more than one item","Fabricar uma receita válida sempre terá sucesso, mas dependendo da sua habilidade e da dificuldade da receita, existe uma chance de você produzir mais de um item"
+Resting,Descansando
+This is the Camp screen,Esta é a tela de Acampamento
+Use it to feed the party and select camp activities for the party members before resting,Use-a para alimentar o grupo e selecionar atividades de acampamento para os membros do grupo antes de descansar
+"By default, the game always auto-saves when you make camp","Por padrão, o jogo sempre salva automaticamente quando você acampa"
+"To fully recover from injuries, your party members must be well fed","Para se recuperar totalmente de lesões, os membros do seu grupo devem estar bem alimentados"
+Normally 10 points of food is required per party member to recover 100%,Normalmente, são necessários 10 pontos de comida por membro do grupo para se recuperar 100%
+If less than the required amount is added your party will only recover partially,Se menos do que a quantidade necessária for adicionada, seu grupo só se recuperará parcialmente
+Add food from your inventory by double clicking it,Adicione comida do seu inventário clicando duas vezes nela
+Note that prepared meals add a lot more food per item than raw ingredients,Note que refeições preparadas adicionam muito mais comida por item do que ingredientes crus
+Seek out crafting stations to craft meals from raw ingredients,Procure bancadas de fabricação para preparar refeições a partir de ingredientes crus
+Select food from your inventory for your party to eat,Selecione comida do seu inventário para o seu grupo comer
+You also need to select Camp Activities for your party members,Você também precisa selecionar Atividades de Acampamento para os membros do seu grupo
+These provide bonuses based on your character's skills,Estas fornecem bônus com base nas habilidades do seu personagem
+Beds and Inns,Camas e Estalagens
+Keep an eye out for beds or inns to rest in while adventuring,Fique atento a camas ou estalagens para descansar enquanto se aventura
+Doing so is superior to sleeping in the wild,Fazer isso é superior a dormir ao relento
+"While resting at an inn or in a bed, you have the option to manage your party!","Enquanto descansa em uma estalagem ou em uma cama, você tem a opção de gerenciar seu grupo!"
+"This means you can choose what characters get to be part of your main party, and who should wait in camp",Isso significa que você pode escolher quais personagens farão parte do seu grupo principal e quem deve esperar no acampamento
+Camp followers do not earn XP and never participate in combat,Os seguidores do acampamento não ganham XP e nunca participam de combates
+Camp followers will for the most part not engage in the narrative,Os seguidores do acampamento, em sua maioria, não se envolverão na narrativa
+"There are a few exceptions to this however, and there are some cases where even characters outside your main party may chime in during conversations","No entanto, há algumas exceções a isso, e há alguns casos em que até personagens fora do seu grupo principal podem intervir nas conversas"
+Sailing,Navegação
+"While sailing on the overland map, the “Make Camp” button changes appearance","Ao navegar no mapa-múndi, o botão ""Acampar"" muda de aparência"
+Click it to explore the ship you’re currently on,Clique nele para explorar o navio em que você está no momento
+Press it to explore the ship you’re currently on,Pressione-o para explorar o navio em que você está no momento
+"While on the ship, it’s possible to rest and reorganize, cook, craft items and even do some limited bartering","Enquanto estiver no navio, é possível descansar e reorganizar, cozinhar, fabricar itens e até fazer alguns escambos limitados"
+There may also be characters to talk to,Também pode haver personagens para conversar
+"When you’re done interacting with the ship and crew, interact with the ship’s helm to go back to the overland map","Quando terminar de interagir com o navio e a tripulação, interaja com o timão do navio para voltar ao mapa-múndi"

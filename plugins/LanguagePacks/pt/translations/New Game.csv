@@ -1,0 +1,370 @@
+original,translation
+Select,Selecionar
+Abort,Abortar
+Pick a Difficulty,Escolha uma dificuldade
+Character Creation,Criacao de Personagem
+Class,Classe
+Background,Historico
+Attributes,Atributos
+Appearance,Aparencia
+Welcome to character creation!,Bem-vindo a criacao de personagens!
+Start by picking a DIFFICULTY for your playthrough,Comece escolhendo uma DIFICULDADE para a sua partida
+Are you sure you want to abort?,Tem certeza de que deseja abortar?
+Difficulty can be changed during play,A dificuldade pode ser alterada durante o jogo
+Bard,Bardo
+Battlemagos,Mago de Batalha
+Champion,Campeao
+Hierophant,Hierofante
+Hospitaller,Hospitalario
+Officer,Oficial
+Ranger,Patrulheiro
+Thief,Ladrao
+Select a Class,Selecione uma Classe
+ARMSMASTER,MESTRE DAS ARMAS
+Archetype,Arquetipo
+Warrior,Guerreiro
+The Main Attribute for this Class is Strength,O Atributo Principal desta Classe e a Forca
+Start,Comecar
+DP,PD
+HP/Lvl,PV/Nvl
+Magic/Lvl,Magia/Nvl
+May use any armor,Pode usar qualquer armadura
+"May use all weapons of type Blade, Axe, Club and Bow","Pode usar todas as armas do tipo Lamina, Machado, Porrete e Arco"
+"Next, select a CLASS for your character!","Em seguida, selecione uma CLASSE para o seu personagem!"
+Classes define a character's role in the party by adding certain exclusive abilities,As classes definem o papel de um personagem no grupo adicionando certas habilidades exclusivas
+DEVELOPMENT POINTS,PONTOS DE DESENVOLVIMENTO
+Development Points are gained when leveling up and used to buy ranks in Feats,Os Pontos de Desenvolvimento sao obtidos ao subir de nivel e usados para comprar niveis de Talentos
+This unlocks new Abilities for the Character making them more powerful,Isso desbloqueia novas Habilidades para o Personagem tornando-o mais poderoso
+MAIN ATTRIBUTE,ATRIBUTO PRINCIPAL
+The Main Attribute is the Attribute that is the most important for this Class,O Atributo Principal e o Atributo mais importante para esta Classe
+STRENGTH,FORCA
+Attribute - Primary,Atributo - Primario
+A measure of a character's brawn and physical power,Uma medida dos musculos e do poder fisico do personagem
+ATTUNEMENT PER LEVEL,SINTONIA POR NIVEL
+"Indicates how much of the game’s Magic resource, Attunement, is gained every time the character levels up","Indica quanto do recurso de Magia do jogo, Sintonia, e ganho cada vez que o personagem sobe de nivel"
+VITALITY PER LEVEL,VITALIDADE POR NIVEL
+"Indicates how much of the game’s Hitpoint resource, Vitality, is gained every time the character levels up","Indica quanto do recurso de Pontos de Vida do jogo, Vitalidade, e ganho cada vez que o personagem sobe de nivel"
+BARD,BARDO
+Rogue,Vigarista
+The Bard mixes the Rogue’s decent combat skills and high maneuverability with the use of arcane magic,O Bardo mistura as boas habilidades de combate e a alta manobrabilidade do Vigarista com o uso de magia arcana
+The Main Attribute for this Class is Presence,O Atributo Principal desta Classe e a Presenca
+May wear Light armor,Pode usar armadura Leve
+"May use Light and Medium weapons of type Blade, Axe, Club and Bow","Pode usar armas Leves e Medias do tipo Lamina, Machado, Porrete e Arco"
+ROGUE,VIGARISTA
+The Rogue combines important non-combat skills with a large damage output against single targets,O Vigarista combina habilidades importantes fora de combate com um alto potencial de dano contra alvos individuais
+BATTLEMAGOS,MAGO DE BATALHA
+"Unlike other Magi, they also get access to a few basic combat-related Feats and may wear light armor","Ao contrario de outros Magos, eles tambem tem acesso a alguns Talentos basicos de combate e podem usar armadura leve"
+The Main Attribute for this Class is Intellect,O Atributo Principal desta Classe e o Intelecto
+"May use Light weapons of type Blade, Club and Bow","Pode usar armas Leves do tipo Lamina, Porrete e Arco"
+CHAMPION,CAMPEAO
+Cleric,Clerigo
+The Champion is a Cleric who excels in the use of blades and armor whilst still having limited divine spell-casting abilities,O Campeao e um Clerigo que se destaca no uso de laminas e armaduras, possuindo tambem habilidades limitadas de conjuracao divina
+May use all weapons of type Blade and Club,Pode usar todas as armas do tipo Lamina e Porrete
+GUILD-MAGOS,MAGO DA GUILDA
+This comes at the cost of having absolutely no combat related Feats,Isso custa o preco de nao possuir absolutamente nenhum Talento voltado para o combate
+May not wear armor,Nao pode usar armadura
+HIEROPHANT,HIEROFANTE
+A Hierophant is a Cleric who can develop all the different Divine Spell Schools fully,Um Hierofante e um Clerigo que pode desenvolver totalmente todas as diferentes Escolas de Magia Divina
+May use Light and Medium weapons of type Club,Pode usar armas Leves e Medias do tipo Porrete
+HOSPITALLER,HOSPITALARIO
+The Hospitaller is a Cleric who serves as a front line healer,O Hospitalario e um Clerigo que atua como curandeiro de linha de frente
+"Well armed and armored, they can stand their ground against overwhelming foes whilst also getting access to the highest tiers of the Body Magic School","Bem armado e protegido, ele pode manter sua posicao contra inimigos avassaladores, tendo tambem acesso aos niveis mais altos da Escola de Magia Corporal"
+OFFICER,OFICIAL
+The Officer is a skilled warrior who serves as a force multiplier through their tactical skills,O Oficial e um guerreiro habilidoso que atua como um multiplicador de forca por meio de suas capacidades taticas
+"Issuing orders across the battlefield, they vastly improve the performance of their fellow party-members","Dando ordens pelo campo de batalha, ele melhora drasticamente o desempenho de seus companheiros de grupo"
+RANGER,PATRULHEIRO
+The Ranger is a Warrior specializing in ranged combat and with access to limited nature magic,O Patrulheiro e um Guerreiro especializado em combate a distancia e com acesso a magia limitada da natureza
+THIEF,LADRAO
+The Thief is a Rogue who uses Stealth to set up devestating Backstab attacks,O Ladrao e um Vigarista que usa o Sigilo para armar ataques devastadores de Apunhalada pelas Costas
+The Main Attribute for this Class is Agility,O Atributo Principal desta Classe e a Agilidade
+STEALTH,SIGILO
+Attribute - Skill,Atributo - Pericia
+Stealth is used during adventuring,O Sigilo e usado durante as aventuras
+In particular it determines if NPCs notice the party as it moves around,Em particular, ele determina se os NPCs notam o grupo enquanto ele se desloca
+AGILITY,AGILIDADE
+"A measure of hand-eye coordination, nimbleness and dexterity","Uma medida de coordenacao motora, agilidade e destreza"
+BACKSTAB,APUNHALADA PELAS COSTAS
+A character that has activated the Ability to Backstab will automatically perform Backstabbing Attacks against opponents that are either Flanked or Vulnerable,Um personagem que ativou a Habilidade de Apunhalada pelas Costas realizara automaticamente Ataques de Apunhalada pelas Costas contra oponentes que estejam Flanqueados ou Vulneraveis
+A successful Backstab Attack adds the character’s Backstab Bonus Multiplied by the Weapon’s Crit Modifier to the damage roll,Uma Apunhalada pelas Costas bem-sucedida adiciona o Bonus de Apunhalada pelas Costas do personagem Multiplicado pelo Modificador Critico da Arma a rolagem de dano
+FLANKING,FLANQUEAMENTO
+A character can be Flanked if opponents occupy the tile above and below it or to the left and right of it,Um personagem pode ser Flanqueado se os oponentes ocuparem o quadrado acima e abaixo dele ou a esquerda e a direita dele
+Attacking a Flanked target allows the Attacker to add their Flanking Bonus to the Attack Roll,Atacar um alvo Flanqueado permite que o Atacante adicione seu Bonus de Flanqueamento a Rolagem de Ataque
+Rogues may Backstab Flanked Characters,Vigaristas podem dar Apunhaladas pelas Costas em Personagens Flanqueados
+BACKSTAB BONUS,BÔNUS DE APUNHALADA PELAS COSTAS
+"If a successful Backstab Attack is performed, this Attribute is multiplied by the Weapon’s Crit multiplier and added to the total Damage","Se uma Apunhalada pelas Costas bem-sucedida for realizada, este Atributo e multiplicado pelo multiplicador Critico da Arma e adicionado ao Dano total"
+VULNERABLE,VULNERÁVEL
+A Vulnerable character cannot defend themselves,Um personagem Vulneravel nao pode se defender
+This makes them much easier to hit and it also means they can be Backstabbed,Isso os torna muito mais faceis de atingir e tambem significa que podem receber uma Apunhalada pelas Costas
+WARRIOR,GUERREIRO
+A Warrior is a front-line fighter who can take and deal large amounts of damage,Um Guerreiro e um lutador de linha de frente que pode aguentar e causar grandes quantidades de dano
+PRESENCE,PRESENÇA
+A character's ability to read and react to the surrounding environment and people,A capacidade de um personagem de ler e reagir ao ambiente ao redor e as pessoas
+ATTUNEMENT,SINTONIA
+Attribute - Magic,Atributo - Magia
+CLERIC,CLÉRIGO
+The Cleric offers close-range support to their party through close ranged buffs and restorative spells,O Clerigo oferece suporte de curto alcance ao seu grupo por meio de fortalecimentos proximos e feiticos de restauracao
+BODY MAGIC SCHOOL,ESCOLA DE MAGIA CORPORAL
+The value of this attribute indicates the highest Spell Tier of Body magic spells you may cast,O valor deste atributo indica o Nivel de Feitico mais alto de magia Corporal que voce pode conjurar
+SPELL TIER,NÍVEL DE FEITIÇO
+"By studying different Schools of Spellcasting, a character gains Spell Tiers in that School","Ao estudar diferentes Escolas de Conjuracao, um personagem ganha Niveis de Feitico naquela Escola"
+Spell Tiers qualify a character to learn spells and different spells have different Tier requirements,Os Niveis de Feitico qualificam um personagem para aprender feiticos, e feiticos diferentes possuem requisitos de Niveis diferentes
+MAGOS,MAGOS
+"The Magos is a ranged strikers that can cast powerful, and often destructive, spells","O Magos e um atacante a distancia que pode conjurar feiticos poderosos e, muitas vezes, destrutivos"
+INTELLECT,INTELECTO
+"Mental acuity, recall and analytical skill","Acuidade mental, memoria e capacidade analitica"
+FIRE MAGIC SCHOOL,ESCOLA DE MAGIA DO FOGO
+The value of this attribute indicates the highest Spell Tier of Fire magic spells you may cast,O valor deste atributo indica o Nivel de Feitico mais alto de magia do Fogo que voce pode conjurar
+Acolyte,Acolito
+Courtier,Cortesao
+Entertainer,Artista
+Ex-Legionary,Ex-Legionario
+Guilder,Florim
+Laborer,Trabalhador Braçal
+Monastic,Monastico
+Noble,Nobre
+Nomad,Nomade
+Snake-Cultist,Cultista da Serpente
+Street Rat,Ratazana de Rua
+Thug,Capanga
+Vagabond,Vagabundo
+Wildling,Selvagem
+Select a Background,Selecione um Historico
+ACOLYTE,ACÓLITO
+You claim a connection with the divine that goes far deeper than most,Voce alega uma conexao com o divino que vai muito mais fundo do que a maioria
+"Whether legitimate of not, you’re always ready to dispense holy wisdom; Be it Imperial gospel or the profane ramblings of the heretic","Seja legitimo ou nao, voce esta sempre pronto para transmitir a sabedoria sagrada; seja o evangelho Imperial ou os delirios profanos do herege"
++5 Attunement,+5 de Sintonia
+Select a BACKGROUND for your character,Selecione um HISTÓRICO para o seu personagem
+"BACKGROUNDS add points in skills, influence starting conditions and narrative content","OS HISTORICOS adicionam pontos em pericias, influenciam as condicoes iniciais e o conteudo narrativo"
+COURTIER,CORTESÃO
+Your time spent kissing noble arses has made you a master of navigating the cut-throat politics of the Imperial lay-courts,O tempo que voce passou bajulando nobres transformou voce em um mestre em navegar pela politica implacavel das cortes laicas Imperiais
++1 Awareness,+1 de Percepcao
++1 Diplomacy,+1 de Diplomacia
+NOBLE,NOBRE
+"An individual of old blood, you learned long ago that wealth and connections tend to open doors that are otherwise closed to the filthy masses","Um individuo de sangue antigo, voce aprendeu ha muito tempo que a riqueza e os contatos tendem a abrir portas que, de outra forma, estariam fechadas para as massas imundas"
++1 Lore,+1 de Conhecimento
+DIPLOMACY,DIPLOMACIA
+"Diplomacy is used to lie, bargain or sway others in negotiations","A Diplomacia e usada para mentir, barganhar ou influenciar os outros em negociacoes"
+It influences prices at merchants,Ela influencia os precos nos mercadores
+LORE,CONHECIMENTO
+A general knowledge skill,Uma pericia de conhecimento geral
+AWARENESS,PERCEPÇÃO
+The ability to notice small details and hidden things,A capacidade de notar pequenos detalhes e coisas ocultas
+You are an esteemed member of the Empire’s teeming underworld with a special knack for getting in and out of places you shouldn’t be,Voce e um membro estimado do submundo fervilhante do Imperio, com um talento especial para entrar e sair de lugares onde nao deveria estar
++1 Stealth,+1 de Sigilo
++1 Thievery,+1 de Ladroagem
+THIEVERY,LADROAGEM
+Used to pick locks and pockets as well as to steal from shops,Usada para arrombar fechaduras e bater carteiras, bem como para roubar de lojas
+ENTERTAINER,ARTISTA
+"In equal parts despised and adored by the wealthy of the Empire, the traveling entertainer can make a pretty penny off their blinding charisma and nimble fingers","Em partes iguais desprezado e adorado pelos ricos do Imperio, o artista viajante pode faturar um bom dinheiro com seu carisma avassalador e dedos ageis"
+EX-LEGIONARY,EX-LEGIONÁRIO
+A member of the ‘old breed’,Um membro da 'velha estirpe'
+You now belong to the ever-growing fraternity of fellow men and women with scarred bodies and broken minds who roam the Empire in search for a quiet piece of land to call home,Agora voce pertence a crescente fraternidade de homens e mulheres com corpos cheios de cicatrizes e mentes quebradas que vagam pelo Imperio em busca de um pedaco de terra tranquilo para chamar de lar
++30lbs Carrying Bonus,+30 lbs de Bonus de Carga
+CARRYING BONUS,BÔNUS DE CARGA
+Attribute - Misc,Atributo - Varios
+A bonus in pounds added to the character’s Carrying Capacity,Um bonus em libras adicionado a Capacidade de Carga do personagem
+GUILDER,FLORIM
+"Like so many of the Empires young and promising, you were recruited into guild service at a fairly early age","Como muitos dos jovens e promissores do Imperio, voce foi recrutado para o servico da guilda em uma idade bastante precoce"
+"As the saying goes, work for the illustrious guilds tends to leave you with 'gold in your purse and blood on your hands'","Como diz o ditado, trabalhar para as ilustres guildas tende a deixar voce com 'ouro na bolsa e sangue nas maos'"
++1 Crafting,+1 de Artesanato
+CRAFTING,ARTESANATO
+Crafting is used when creating items at crafting stations,O Artesanato e usado ao criar itens em bancadas de trabalho
+LABORER,TRABALHADOR BRAÇAL
+You’ve spent years toiling under the oppressive yoke of hard labor,Voce passou anos labutando sob o jugo opressor do trabalho duro
+"Though it may not have left you with much coin in your pocket, it has given you an unnatural resistance to hardship","Embora possa nao ter deixado muitas moedas no seu bolso, isso lhe deu uma resistencia sobrenatural as adversidades"
++1 Toughness,+1 de Resistencia
+TOUGHNESS,RESISTÊNCIA
+The character’s ability to withstand adverse physical effects such as disease and poison,A capacidade do personagem de resistir a efeitos fisicos adversos, como doencas e venenos
+MONASTIC,MONÁSTICO
+You have served one of the holy orders of the Empire from the safety of one of its walled monastic communities,Voce serviu a uma das ordens sagradas do Imperio a partir da seguranca de uma de suas comunidades monasticas muradas
+Pray the world has not grown too cruel in your absence,Reze para que o mundo nao tenha se tornado cruel demais na sua ausencia
++1 Healing,+1 de Cura
+HEALING,CURA
+Healing is used in camp to increase the rate of wound recovery for wounded characters,A Cura e usada no acampamento para aumentar a taxa de recuperacao de ferimentos dos personagens feridos
+It also influences the amount of vitality regained from healing potions and is used in dialogue tests when dealing with medical issues and such,Ela tambem influencia a quantidade de vitalidade recuperada de pocoes de cura e e usada em testes de dialogo ao lidar com questoes medicas e afins
+VITALITY,VITALIDADE
+Attribute - Secondary,Atributo - Secundario
+Vitality describes the amount of damage a character can take before becoming seriously wounded,A Vitalidade descreve a quantidade de dano que um personagem pode sofrer antes de ficar gravemente ferido
+Vitality is fairly easily regained through the use of consumable items and spells,A Vitalidade e recuperada com bastante facilidade por meio do uso de itens consumiveis e feiticos
+NOMAD,NÔMADE
+"You’ve spent years across the seas, living with the desert nomads","Voce passou anos do outro lado dos mares, vivendo com os nomades do deserto"
+"Though ever the outsider, the nomads deemed you trust-worthy enough to become an initiate in the mysteries of their pagan fire-worship","Apesar de ser sempre um estrangeiro, os nomades julgaram voce confiavel o suficiente para se tornar um iniciado nos misterios da sua adoracao pagã ao fogo"
++25% Fire Damage Resistance,+25% de Resistencia a Dano de Fogo
+FIRE DAMAGE RESISTANCE,RESISTÊNCIA A DANO DE FOGO
+Attribute - Resistance,Atributo - Resistencia
+Damage Resistance reduces incoming Damage of the indicated type by a percentage amount equal to the attribute value,A Resistencia a Dano reduz o Dano recebido do tipo indicado por uma porcentagem igual ao valor do atributo
+A value of 100% or higher means immunity to this damage type,Um valor de 100% ou mais significa imunidade a este tipo de dano
+A negative value means a vulnerability to the damage type,Um valor negativo significa vulnerabilidade ao tipo de dano
+"If this is the case, incoming Damage will be increased","Se for esse o caso, o Dano recebido sera aumentado"
+SAILOR,MARINHEIRO
+You’ve heard the call of the Mother of Maelstroms and salt water now runs in your veins,Voce ouviu o chamado da Mae dos Maelstroms e agua salgada agora corre em suas veias
+"Whether on the deck of a Guilder caravel or manning the sails of a meager fishing sloop, you feel most at home when you’re at sea","Seja no conves de uma caravela de Florim ou controlando as velas de uma humilde chalupa de pesca, voce se sente mais em casa quando esta no mar"
++1 Athletics,+1 de Atletismo
+ATHLETICS,ATLETISMO
+SALT,SAL
+Food,Comida
+Food Val,Valor Nutritivo
+Value,Valor
+Weight,Peso
+Used in,Usado em
+"With the once-mighty legions of the Empire in decline, this is an age of sellswords and mercenaries","Com as outrora poderosas legioes do Imperio em declinio, esta e uma era de espadas de aluguel e mercenarios"
+There is no shortage of those willing to pay professionals to wreak violence on others and you are very good at your job,Nao faltam aqueles dispostos a pagar profissionais para exercer violencia sobre os outros, e voce e muito bom no seu trabalho
++3 Vitality,+3 de Vitalidade
+SNAKE-CULTIST,CULTISTA DA SERPENTE
+Writhing with serpents in darkened cellars and hidden temples has left you immune to the snake’s kiss,Retorcer-se com serpentes em实用escuras e templos ocultos tornou voce imune ao beijo da cobra
++100% Poison Resistance,+100% de Resistencia a Veneno
+POISON RESISTANCE,RESISTÊNCIA A VENENO
+Resistance to a condition represents the percentage chance to avoid contracting the condition,A resistencia a uma condicao representa a chance percentual de evitar contrair a condicao
+An attribute value of 100% or above means immunity to the condition in question,Um valor de atributo de 100% ou mais significa imunidade a condicao em questao
+STREET RAT,RATAZANA DE RUA
+Spending your formative years fending for yourself on the hard streets of the Empire’s sprawling cities has left you with a preternatural instinct for surviving,Passar seus anos de formacao se virando sozinho nas ruas duras das cidades em expansao do Imperio lhe deu um instinto sobrenatural de sobrevivencia
+No crime is too petty - no meat too mysterious,Nenhum crime e pequeno demais - nenhuma carne e misteriosa demais
++2 Initiative,+2 de Iniciativa
+INITIATIVE,INICIATIVA
+Initiative determines who goes first in combat,A Iniciativa determina quem age primeiro no combate
+THUG,CAPANGA
+"Punch first, ask questions later","Esmurre primeiro, pergunte depois"
+You have perfected the noble art of solving problems with brute force,Voce aperfeicoou a nobre arte de resolver problemas com forca bruta
++1 Club Damage Bonus,+1 de Bonus de Dano com Porrete
+CLUB DAMAGE BONUS,BÔNUS DE DANO COM PORRETE
+Weapon Damage bonuses increase the Damage dealt when using the indicated Weapon type,Os bonus de Dano de Arma aumentam o Dano causado ao usar o tipo de Arma indicado
+VAGABOND,VAGABUNDO
+"Having spent most of your teenage years’ on the road, you are a free spirit with no allegiance to any one person or place","Tendo passado a maior parte da sua adolescencia na estrada, voce e um espirito livre, sem lealdade a nenhuma pessoa ou lugar"
+"Drifting from place to place, you go where there is work, food and a warm bed to be had","Vagando de lugar em lugar, voce vai onde houver trabalho, comida e uma cama quente para se ter"
++1 Survival,+1 de Sobrevivencia
+SURVIVAL,SOBREVIVÊNCIA
+"Survival is used to forage for food, navigate difficult overland terrain and also determines a character's general knowledge of nature","A Sobrevivencia e usada para buscar comida, navegar por terrenos dificeis e tambem determina o conhecimento geral da natureza do personagem"
+WILDLING,SELVAGEM
+"As the light of civilization fades, the vast wildernesses of the Empire encroach on the civilized folk","A medida que a luz da civilizacao desaparece, as vastas terras selvagens do Imperio invadem o povo civilizado"
+Thankfully you don’t count yourself among those,Felizmente, voce nao se inclui entre eles
+The sky is your temple and the howling of wolves your litany,O ceu e o seu templo e o uivo dos lobos a sua litania
+Primary Stats,Estatisticas Principais
+Agility,Agilidade
+Intellect,Intelecto
+Presence,Presenca
+Strength,Forca
+Skills,Pericias
+Athletics,Atletismo
+Awareness,Percepcao
+Crafting,Artesanato
+Diplomacy,Diplomacia
+Healing,Cura
+Lore,Conhecimento
+Stealth,Sigilo
+Survival,Sobrevivencia
+Thievery,Ladroagem
+Secondary Stats,Estatisticas Secundarias
+Combat Stats,Estatisticas de Combate
+Crit Chance,Chance de Critico
+Initiative,Iniciativa
+Melee To Hit,Acerto Corpo a Corpo
+Ranged To Hit,Acerto a Distancia
+Defences,Defesas
+Dodge,Esquiva
+Toughness,Resistencia
+Willpower,Forca de Vontade
+Select an entry!,Selecione uma entrada!
+Primary Attributes and Skills,Atributos e Pericias Principais
+Distribute points to your PRIMARY ATTRIBUTES and SKILLS,Distribua os pontos entre seus ATRIBUTOS E PERICIAS PRINCIPAIS
+These go a long way towards defining your character mechanically,Isso ajuda muito a definir o seu personagem mecanicamente
+SECONDARY STATS,ESTATISTICAS SECUNDARIAS
+Secondary attributes that tend to vary during play,Atributos secundarios que tendem a variar durante o jogo
+SKILLS,PERICIAS
+Skills are derived from primary attributes and are used to perform most non-combat tasks in the game,As pericias sao derivadas dos atributos principais e sao usadas para realizar a maioria das tarefas fora de combate no jogo
+TOTAL,TOTAL
+FORTITUDE,FORTITUDE
+Describes how tough and resilient a character is,Descreve o quao forte e resiliente um personagem e
+WOUNDS,FERIMENTOS
+Ranks,Niveis
+RANKS,NIVEIS
+COMBAT STATS,ESTATISTICAS DE COMBATE
+Derived attributes that are used during combat,Atributos derivados que sao usados durante o combate
+CRIT CHANCE,CHANCE DE CRITICO
+Describes the percentage of Hits that are upgraded to Critical Hits,Descreve a porcentagem de Acertos que sao aprimorados para Acertos Criticos
+CRITICAL HIT,ACERTO CRITICO
+"For each successful Attack, there is a chance the Hit is upgraded to a Critical Hit","Para cada Ataque bem-sucedido, ha uma chance de o Acerto ser aprimorado para um Acerto Critico"
+This is a percentage chance equal to the attacker’s Crit Chance Attribute,Esta e uma chance percentual igual ao Atributo Chance de Critico do atacante
+"If a Critical Hit is confirmed, the Damage dealt is multiplied by the Weapon’s Crit. value","Se um Acerto Critico for confirmado, o Dano causado e multiplicado pelo valor Critico da Arma"
+"For instance a Weapon with a Crit. value of, multiplies the Damage dealt in a Critical Hit by","Por exemplo, uma Arma com um valor Critico de, multiplica o Dano causado em um Acerto Critico por"
+MELEE DMG,DANO CORPO A CORPO
+This is added to the current weapon's damage range for a total damage range,Isso e adicionado ao alcance de dano da arma atual para um alcance de dano total
+Counts encumberance from Armor,Considera o estorvo da Armadura
+Defences are used to defend against attacks and negative effects,As defesas sao usadas para se defender de ataques e efeitos negativos
+WILLPOWER,FORCA DE VONTADE
+Willpower describes a character’s ability to withstand mind-affecting conditions such as those caused by spells,A Forca de Vontade descreve a capacidade de um personagem de resistir a condicoes que afetam a mente, como as causadas por feiticos
+This attribute influences,Este atributo influencia
+Main Attribute,Atributo Principal
+Counts encumberance from Headwear,Considera o estorvo do Elmo
+Counts encumberance from Gloves,Considera o estorvo das Luvas
+Counts encumberance from Armor and Footwear,Considera o estorvo da Armadura e dos Calcados
+Abilities,Habilidades
+ABILITIES,HABILIDADES
+These are the Feats derived from your class,Estes sao os Talentos derivados da sua classe
+Distribute your Development Points in them to gain benefits and new Abilities,Distribua seus Pontos de Desenvolvimento neles para obter beneficios e novas Habilidades
+Ranks to Distribute,Niveis para Distribuir
+Armsmaster Feats,Talentos de Mestre das Armas
+Not Today!,Hoje Nao!
+NOT TODAY!,HOJE NÃO!
+Triggered Ability,Habilidade Gatilho
+Targets,Alvos
+Self,O Proprio
+Smashing Charge,Investida Esmagadora
+Enemies,Inimigos
+Allies,Aliados
+Anyone,Qualquer um
+AoE,Area de Efeito
+Melee,Corpo a Corpo
+Your Charges cause 1-3 additional Blunt Damage,Suas Investidas causam 1-3 de Dano de Impacto adicional
+Killing an opponent using a Heavy Melee Weapon restores 1 Attack,Matar un oponente usando uma Arma Corpo a Corpo Pesada restaura 1 Ataque
+SWORD EXPERT,ESPECIALISTA EM ESPADA
+Deep Cut,Corte Profundo
+Your Critical Hits using Blades cause Bleeding on your target,Seus Acertos Criticos usando Laminas causam Sangramento no seu alvo
+Critical Hits with a Club causes The Injured Leg condition,Acertos Criticos com um Porrete causam a condicao Perna Ferida
+AXE EXPERT,ESPECIALISTA EM MACHADO
+Rending Blow,Golpe Desgarrador
+RENDING BLOW,GOLPE DESGARRADOR
+Critical Hits with an Axe causes Injury Conditions,Acertos Criticos com um Machado causam condicoes de Ferimento
+ARCHERY EXPERT,ESPECIALISTA EM ARQUEARIA
+ARCHERY MASTER,MESTRE EM ARQUEARIA
+Rapid Reload,Recarga Rapida
+RAPID RELOAD,RECARGA RAPIDA
+"If you score a Critical Hit with a Bow, you immediately regain 1 attack","Se voce conseguir un Acerto Critico com um Arco, voce imediatamente recupera 1 ataque"
+AXE MASTER,MESTRE EM MACHADO
+Decapitation,Decapitacao
+DECAPITATION,DECAPITACAO
+AllEnemies,Todos os Inimigos
+The gruesomeness of your Axe-Kill causes the Fear condition in all opponents who can see it,O horror de sua morte por Machado causa a condicao Medo em todos os oponentes que puderem ve-la
+CLUB MASTER,MESTRE EM PORRETE
+SHIELD MASTER,MESTRE EM ESCUDO
+Shield Slam,Pancada com Escudo
+SHIELD SLAM,PANCADA COM ESCUDO
+"Whilst wielding a shield, dodging a melee attack causes you to deal 1-4 Blunt damage to your attacker","Enquanto empunha um escudo, esquivar-se de um ataque corpo a corpo faz voce causar 1-4 de Dano de Impacto ao seu atacante"
+SWORD MASTER,MESTRE EM ESPADA
+MEDIUM ARMOR MASTERY,MAESTRIA EM ARMADURA MEDIA
+BLOODTHIRSTY,SANGUINARIO
+HEAVY ARMOR MASTERY,MAESTRIA EM ARMADURA PESADA
+Cannot place Rank,Nao e possivel colocar Nivel
+The maximum number of ranks have been placed for this Feat!,O numero maximo de niveis ja foi colocado para este Talento!
+You don't have any ranks to distribute,Voce nao tem niveis para distribuir
+Level up to gain ranks!,Suba de nivel para ganhar niveis!
+Gender,Genero
+Empty,Vazio
+Male,Masculino
+Portrait,Retrato
+Hair Style,Estilo de Cabelo
+Style,Estilo
+Facial Hair,Barba e Bigode
+Hair Color,Cor do Cabelo
+Skin Tone,Tom de Pele
+Main Color,Cor Principal
+Secondary Color,Cor Secundaria
+Tertiary Color,Cor Terciaria
+Randomize,Aleatorizar
+Customize Appearance,Personalizar Aparencia
+You can use this screen to customize your characters physical appearance,Voce pode usar esta tela para personalizar a aparencia fisica do seu personagem
+Note that changes made here are purely cosmetic,Note que as mudancas feitas aqui sao puramente cosmeticas
+Finalize your character by editing their appearance,Finalize o seu personagem editando a sua aparencia
+Female,Feminino
+Type a name and press 'Continue'!,Digite um nome e pressione 'Continuar'!
+Name must be between 3 and 10 characters long and may only contain standard English letters (A-Z,O nome deve ter entre 3 e 10 caracteres e pode conter apenas letras padrao do ingles (A-Z)
+You must destribute all your attribute points before you can proceed!,Voce deve distribuir todos os seus pontos de atributo antes de poder prosseguir!

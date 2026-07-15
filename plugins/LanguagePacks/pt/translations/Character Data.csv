@@ -1,0 +1,223 @@
+original,original
+#Animals,#Animais
+Chicken,Galinha
+Dog,Cachorro
+The dog is roaming around restlessly,O cachorro esta andando de um lado para o outro inquieto
+Goat,Cabra
+#Common Humanoids,#Humanoides Comuns
+Commoner,Plebeu
+Guard,Guarda
+A guardsman dressed in the livery of the noble house Berryn scowls at you,Um guarda vestido com a libre da nobre casa Berryn olha feio para voce
+Armsmaster Lyra awaits you at the main entrance,A mestra de armas Lyra espera por voce na entrada principal
+You best talk to her if you've not already done so,E melhor voce falar com ela se ainda nao o fez
+Guest,Convidado
+Scullion,Ajudante de Cozinha
+Good evening m'lord,Boa noite meu senhor
+Good evening m'lady,Boa noite minha senhora
+the red-faced scullion bows slightly,o ajudante de cozinha de rosto avermelhado faz uma leve reverencia
+Servants,Servos
+Henchman,Capanga
+Brigand Archer,Arqueiro Brigante
+Brigand Rogue,Ladino Brigante
+Brigand Swordsman,Espadachim Brigante
+Child,Crianca
+Jester,Bufao
+Farmer,Fazendeiro
+Fruit-Picker,Colhedor de Frutas
+Handmaid,Criada
+Crewmember,Membro da Tripulacao
+Refugee,Refugiado
+"A ragged, hungry refugee from Horryn",Um refugiado faminto e esfarrapado de Horryn
+Treasure Hunter,Cacador de Tesouros
+Fire-Spitter,Cuspidor de Fogo
+Mercenary,Mercenario
+"The mercenary looks at you, menacingly",O mercenario olha para voce de forma ameacadora
+Armorer,Armeiro
+Arms Merchant,Comerciante de Armas
+Food Merchant,Comerciante de Alimentos
+Potion Merchant,Comerciante de Pocoes
+Reagent Merchant,Comerciante de Reagentes
+Spell Merchant,Comerciante de Feiticos
+Trinket Merchant,Comerciante de baratijas
+Pilgrim,Peregrino
+Reaver Berserker,Berserker devorador
+Reaver Brute,Bruto saqueador
+Reaver Scout,Explorador Saqueador
+Reaver,Saqueador
+Reaver Blackguard,Saqueador GuardiaOscura
+Reaver Mystic,Saqueador Mistico
+Cultist,Cultista
+Prisoner,Prisionero
+Wretch,Desgraciado
+Sailor,Marinero
+Captain,Capitan
+Mad Sailor,Marinero loco
+Mad Sailo,Marinero loco
+Guild Magos,Magos del gremio
+Guild Mag,Revista del gremio
+Wight,Wight
+Apprentice,Aprendiz
+Feral Clone,Clon salvaje
+#Monsters,#Monstruos
+Giant Bat,Murcielago gigante
+Giant Beetle,Escarabajo gigante
+Rhino Beetle,Escarabajo rinoceronte
+Carrion Crawler,Carronero
+Giant Centipede,Ciempies gigante
+Fell Crab,Cangrejo caido
+Corpse Eater,Devorador de cadaveres
+Giant Crab,Cangrejo gigante
+Crab,Cangrejo
+Rot Crab,Cangrejo podrido
+Spider Crab,Cangrejo arana
+Brood Guard,Guardia de cria
+Father,Padre
+Deep One Priestess,Sacerdotisa do Profundo
+Deep One Queen,Reina Profunda
+Deep One Warrior,Guerrero Profundo
+Devolved,Descentralizado
+Ghoul,Demonio necrofago
+Frost Ghoul,Necrofago de escarcha
+Giant Gnat,Mosquito gigante
+Cave Gnat,Mosquito de cueva
+Fell Hog,Cerdo caido
+Dire Hound,Perro terrible
+Fell Hound,Perro de caza
+Ice Hound,Sabueso de hielo
+Ice Strider,Caminante de hielo
+Shadow Stalker,Acechador de sombras
+Giant Leech,Sanguijuela gigante
+Albino Leech,Sanguijuela albina
+Bloodletter,Sangrador
+Fell Lizard,Lagarto caido
+Alpha Lizard,Lagarto Alfa
+Giant Lizard,Lagarto gigante
+Ice Salamander,Salamandra de hielo
+Mold Child,Nino con moho
+Ooze,Rezumar
+Flesh Ooze,Supuracion de carne
+Medusa Jelly,Medusa Jelly
+Risen Ooze,Cieno Alzado
+Magma Ooze,Magma Ooze
+Magmite,Magmita
+Large Ooze,Gran limo
+Giant Rat,Rata gigante
+Dire Rat,Rata terrible
+Chitters-In-Darkness,Chitters-In-Darkness
+Rabid Rat,Rata rabiosa
+Shade,Sombra
+Dire Serpent,Serpiente terrible
+Fell Serpent,Serpiente caida
+Giant Snake,Serpiente gigante
+Fleshstrider,Caminante de carne
+Flying Polyp,Polipo volador
+Dragon's Herald,Heraldo del Dragon
+Evolved,Evolucionado
+Newborne,Recien nacido
+Vessel,Buque
+Stalker,Acosador
+Giant Spider,Arana gigante
+Large Spider,Arana grande
+Shambler,Desalinado
+Frost Shambler,Caminante de escarcha
+#Unique Humanoids,#Humanoides Unicos
+Big Lorn,Gran Lorn
+Arra the Trader,Arra el comerciante
+Doran the Pilot,Doran el piloto
+Chef Armand,Chef Armand
+Kydeon,Kydeon
+The scarred and graying veteran smiles varmly towards you,El veterano canoso y lleno de cicatrices voce sonrie malhumorado
+Calipero,Calipero
+Lyra,Lira
+Malachai,Malachai
+Driina,Driina
+The imposing cleric turns to face you,El imponente clerigo se gira para mirarte
+"There's a steely resolve in her eyes, but she gives you a warm, if sad smile by way of greeting","Hay una ferrea determinacion en sus ojos, pero voce dedica una calida, aunque triste, sonrisa a modo de saludo"
+Embla,Embla
+Bernard,Bernardo
+Barmaid,Camarera
+Baroness of Firgol,Baronesa de Firgol
+Pert the Beekeeper,Pert el apicultor
+Ari,Ari
+Cass,Cass
+Temmy,Temmy
+Jeb,Jeb
+Vendor,Proveedor
+Klara,Clara
+Majordomo,Mayordomo
+Drummer,Bateria
+Piper,Flautista
+Lutist,Laudista
+Camilla,Camila
+Hierophant Drahl,Hierofante Drahl
+Albert,Alberto
+Blacksmith,Herrero
+Quartermaster,Oficial de intendencia
+Clothier,Ropero
+Julia,Julia
+Ylia,Ylia
+Martha,Marta
+Frantzo,Frantzo
+Captain Vivian,Capitan Vivian
+Bobbert the Recruit,Bobbert el recluta
+Rat Queen,Reina Rata
+Esteban,Esteban
+Armand,Armando
+Art Peddler,Vendedor ambulante de arte
+Merchant,Comerciante
+Bor the Sewerjack,Bor el Sewerjack
+Cora,Cora
+Natia,Natia
+Philip,Felipe
+Iago,Yago
+Dono,Dono
+Anto,Anto
+Zhara,Zhara
+Iben,Iben
+Chamberlain,Chambelan
+Markus,Marcos
+Chamberlain to the governor of Idra,Chambelan del gobernador de Idra
+Jakub,Jakub
+Ella,Ella
+{addVocalBarkLocal|I've too much on my mind right now...},{addVocalBarkLocalTengo demasiadas cosas en la cabeza ahora mismo...}
+Giorgy,Giorgy
+"A ragged man, caked in dirt","Un hombre harapiento, cubierto de tierra"
+Marita,Marita
+Lighthouse Keeper,Guardian del faro
+Lon,Lon
+The camp's cook,El cocinero del campamento
+Hannah,Hannah
+"On your way through the refugee camp you notice a woman and a pale-looking child huddled together beneath an old, worn blanket","En tu camino por el campo de refugiados, ves a una mujer y a un nino de aspecto palido acurrucados bajo una manta vieja y gastada"
+Shepherd,Pastor
+Wreck Picker,Recolector de restos de naufragio
+Kat,Gato
+Maija,Maija
+Andros,Andros
+Marsa,Marsa
+A young girl,Una jovencita
+She's ragged and far to lean but she is smiling from ear to ear as she clutches her stuffed animal,Esta desalinada y demasiado delgada  pero sonrie de oreja a oreja mientras agarra su animal de peluche
+She's ragged and far to lean and looks like she's been crying recently,"Ela esta andrajosa, magra demais e parece ter chorado recentemente"
+Mother Katak,Mae Katak
+"An old, silver-haired crone",Uma velha de cabelos prateados
+Thomas,Thomas
+Oleg the Gray,Oleg o Cinzento
+Red Kala,Kala Vermelho
+The Butcher,O Acougueiro
+Roland,Roland
+Snow,Snow
+"The man called ""Snow"" by his crew, was once the first mate of the Zephyr",O homem chamado de Snow por sua tripulacao ja foi o primeiro oficial do Zefiro
+Aaron,Aaron
+Leva,Leva
+One of the wretched surviors from the Zephyr,Um dos infelizes sobreviventes do Zefiro
+"The woman looks torn, tattered and exhausted","A mulher parece abalada, andrajosa e exausta"
+"As you approach, she offers a tired, but grateful smile","Ao se aproximar, ela oferece um sorriso cansado, mas agradecido"
+Grigor,Grigor
+"The man looks torn, tattered and exhausted","O homem parece abalado, andrajosa e exausto"
+As you approach the sailor shrinks back in terror whilst avoiding your gaze,"Ao se aproximar, o marinero recua aterrorizado enquanto evita o seu olhar"
+"As you approach the sailor offers a tired, but grateful smile","Ao se aproximar, o marinheiro oferece um sorriso cansado, mas agradecido"
+Jan,Jan
+Andry,Andry
+Carylla,Carylla
+Tycho,Tycho
+The Ancient King,O Rei Antigo
+Joran the Usurper,"Joran, o Usurpador"

@@ -1,0 +1,98 @@
+original,traducido
+#Blessing Effects,#Efeitos de Bencao
+Greater Restore Attunement,Maior Sintonia de Restauracao
+Minor Restore Attunement,Sintonia de Restauracao Menor
+Moderate Restore Attunement,Sintonia de Restauracao Moderada
+Sublime Restore Attunement,Sintonia de Restauracao Sublime
+Barkskin,Pele de Casca
+Bear's Strength,Forca de Urso
+Bless,Bencao
+Blur,Desfoque
+Clarity of Mind,Claridade de Mente
+Cure Blindness,Curar Cegueira
+Cure Charm,Curar Encantamento
+Cure Deafness,Curar Surdez
+Cure Moderate Disease,Curar Doenca Moderada
+Cure Severe Disease,Curar Doenca Grave
+Cure Weak Disease,Curar Doenca Leve
+Removes the Diseased Condition from the target,Remove a condicao de Doenca do alvo
+Cure Insanity,Curar Insanidade
+Cure Paralysis,Curar Paralisia
+Cure Moderate Poison,Curar Veneno Moderado
+Cure Strong Poison,Curar Veneno Forte
+Cure Weak Poison,Curar Veneno Fraco
+Cure Silenced,Curar Silenciado
+Defend,Defender
+Diamond Form,Forma de Diamante
+Fortify Awareness,Fortificar Percepcao
+Fortify Initiative,Fortificar Iniciativa
+Fortify Will,Fortificar Vontade
+Frenzy,Frenesi
+Greater Haste,Celeridade Maior
+Lesser Haste,Celeridade Menor
+Greater Healing,Cura Maior
+Minor Healing,Cura Menor
+Minute Healing,Cura Minuciosa
+Moderate Healing,Cura Moderada
+Sublime Healing,Cura Sublime
+Heroism,Heroismo
+Hide,Ocultar
+Illuminate,Iluminar
+Acid Immunity,Imunidade a Acido
+Electric Immunity,Imunidade a Eletricidade
+Fire Immunity,Imunidade a Fogo
+Panic Immunity,Imunidade ao Panico
+Inspire,Inspirar
+Invisibility Lesser,Invisibilidade Menor
+Recover,Recuperar
+Greater Regeneration,Regeneracao Maior
+Lesser Regeneration,Regeneracao Menor
+Remove Fear,Remover Medo
+Acid Resistance,Resistencia a Acido
+Electric Resistance,Resistencia a Eletricidade
+Fire Resistance,Resistencia a Fogo
+Serpent's Grace,Graca da Serpente
+Stoneskin,Pele de Pedra
+Thornclad,Capa de Espinhos
+#Curse Effects,#Efeitos de Maldicao
+Cause Confusion,Causar Confusao
+Deafness,Surdez
+Cause Fear,Causar Medo
+Condemn,Condenar
+Disrupt,Interromper
+Immobilize,Imobilizar
+Infect,Infectar
+Greater Infect,Infectar Maior
+Lesser Infect,Infectar Menor
+Infects the target with a disease,Infecta o alvo com uma doenca
+Mark Target,Marcar Alvo
+Paralyze,Paralisar
+Moderate Poisoning,Envenenamento Moderado
+Strong Poisoning,Envenenamento Forte
+Weak Poisoning,Envenenamento Fraco
+Purge Invisibility,Purgar Invisibilidade
+Silence,Silenciar
+Slow,Lentificar
+Stun,Atordoar
+Weaken,Enfraquecer
+#Damage Effects,#Efeitos de Dano
+Cause Bleeding,Causar Sangramento
+Cause Injury,Causar Ferimento
+Cause Injury,Causar Ferimento
+Kneecap,Joelho
+Minor Acid Splash,Salpicadura de Acido Menor
+Massive Kinetic Damage,Dano Cinetico Massivo
+Medium Kinetic Damage,Dano Cinetico Medio
+Minor Magical Damage,Dano Magico Menor
+Minor Sublime Damage,Dano Sublime Menor
+Fire Flash,Clarao de Fogo
+Hamstring,Tendao
+Minor Psychic Blast,Explosao Psiquica Menor
+Minor Slam,Golpe Menor
+Medium Slash,Corte Medio
+Minor Slash,Corte Menor
+#General Effects,#Efeitos Gerais
+Clear Magical Conditions,Remover Condicoes Magicas
+Dispel Magic,Dissipar Magia
+Get Drunk,Ficar Bebado
+Push Target,Empurrar Alvo

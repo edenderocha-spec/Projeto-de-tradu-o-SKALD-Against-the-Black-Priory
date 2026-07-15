@@ -1,0 +1,23 @@
+Olá a todos!! É a primeira vez que faço traduções e algo do tipo então peço compreenssão e criticas construtivas para que eu
+tenha mais experiência no projeto.
+
+Me chamo Eden, e quero ser um desenvolvedor!
+
+Bom... Aqui vou explicar como vocês vão aplicar o mod de tradução, mas lembrando ele está incompleto e me falta criar os
+caracteres especiais do jogo, e provavelmente vou precisar usar engenharia reversa e isso vai ser um trampo...
+
+Sim estou fazendo por enquanto sozinho, mas espero que no futuro eu consiga amigos que possam me ajuda, são mais de 13 mil
+linhas pra traduzir e preciso enquadrar o offset para os caracteres especiais, então para quem ler isso tenha paciência!
+
+Sem enrolação vamos lá:
+
+Pra aplicar a tradução vocês vão precisar
+- Baixar o BepInEx 6 (beta) na página oficial de lançamentos do BepInEx no GitHub (https://github.com/BepInEx/BepInEx/releases)
+- Extraia os arquivos BepInEx para o diretório do seu jogo SKALD
+- Execute o jogo uma vez para gerar os arquivos de configuração do BepInEx.
+- O jogo será fechado após a configuração inicial - isso é normal.
+
+Depois disso, na pasta BepInEx substituam a pasta "plugin" do jogo pelo arquivo com o mesmo nome que deixei disponivel para vocês. Ele contem os arquivos Newtonsoft.Json.dll, TranslationMod.cfg e TranslationMod.dll para que o jogo possa reconhecer o novo pacote de linguas, e na pasta "LanguagePacks" está o arquivo de tradução pt-br.
+
+Tradução ver. 1.0
+- Ele ainda não possui as acentuações pois, como falei, estou tendo problemas em fazer os caracteres especiais para TODOS os tipos de fontes, a grid de algumas letras é muito pequeno para comportar as acentuações e terei que fazer um pouco de engenharia recersa para editar o offset de algumas letras do jogo devido o português, mas aos poucos irei atualizando.
